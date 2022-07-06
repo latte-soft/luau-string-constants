@@ -23,7 +23,7 @@ LuauStringConstants = "latte-soft/luau-string-constants@^1.0.0"
 <hr>
 
 ## API
-- "`LuauStringConstants`" will be represented here as the module "refrence", example:
+- "`LuauStringConstants`" will be represented here as the module "reference", example:
 ```lua
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
