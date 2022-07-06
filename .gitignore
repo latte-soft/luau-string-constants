@@ -1,0 +1,11 @@
+# Misc. `.lock` Files
+*.lock
+
+# Rojo Build Files
+luau-string-constants.rbxm
+luau-string-constants.rbxmx
+build.rbxm
+build.rbxmx
+
+# Rojo/Luau-LSP Sourcemap File
+sourcemap.json

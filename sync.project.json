@@ -1,0 +1,14 @@
+{
+    "name": "Luau String Constants",
+    "tree": {
+        "$className": "DataModel",
+
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+
+            "LuauStringConstants": {
+                "$path": "source"
+            }
+        }
+    }
+}

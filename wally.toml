@@ -1,0 +1,13 @@
+[package]
+name = "latte-soft/lucy-string-constants"
+description = "Simple String Constants Library for Luau"
+version = "1.0.0"
+license = "MIT"
+
+authors = [
+    "Latte Softworks <support@latte.to>",
+    "Reggie <reggie@latte.to>",
+]
+
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
