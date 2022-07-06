@@ -13,7 +13,7 @@ rojo build -o "luau-string-constants.rbxm"
 
 <hr>
 
-## Codebase/Wally Implementation
+## Codebase/Wally Implementation (UNIMPLEMENTED)
 You can implement this simple library as a git sub-module (if you're familar), or Wally in your `wally.toml` file:
 ```toml
 [dependencies]
